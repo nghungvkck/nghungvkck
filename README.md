@@ -17,15 +17,16 @@ I am passionate about: DeepLearning, MachineLearning, LLM, NLP and AI
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nghungvkck/nghungvkck.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghungvkck&repo=nghungvkck.github.io&theme=gruvbox">
-  </a>
-  <a href="https://github.com/nghungvkck/DF26-NeuroFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghungvkck&repo=DF26-NeuroFlow&theme=onedark">
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight" width="400" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghungvkck&theme=tokyonight" width="400" height="200"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats

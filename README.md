@@ -29,11 +29,9 @@ I am passionate about: DeepLearning, MachineLearning, LLM, NLP and AI
 
 ## 📊 GitHub Stats
 
-<p align="center" style="white-space: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight"
-       height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghungvkck&theme=tokyonight"
-       height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghungvkck&theme=tokyonight" width="48%"/>
 </p>
 
 -----

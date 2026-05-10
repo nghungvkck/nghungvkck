@@ -3,11 +3,12 @@
 ## 👨‍💻 About Me
 
 Hi! My name is **Nguyen Van Hung**.  
-I am currently a student at **University of Science (VNU-HN)**
+I am currently a student at **University of Science (VNU-HN)**.
 
 I am passionate about:
-- DeepLearning
-- MachineLearning
+
+- Deep Learning
+- Machine Learning
 - LLM
 - NLP
 - AI
@@ -17,23 +18,35 @@ I am passionate about:
 ## 🚀 My Projects
 
 <p align="center">
-  <a href="https://github.com/nghungvkck/DSA_Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghungvkck&repo=DSA_Python&theme=tokyonight" />
-  </a>
 
-  <a href="https://github.com/nghungvkck/ChatBotVersion2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghungvkck&repo=ChatBotVersion2&theme=radical" />
-  </a>
+<a href="https://github.com/nghungvkck/DSA_Python">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DSA_Python&theme=tokyonight"
+  />
+</a>
+
+<a href="https://github.com/nghungvkck/ChatBotVersion2">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=ChatBotVersion2&theme=radical"
+  />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/nghungvkck/nghungvkck.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghungvkck&repo=nghungvkck.github.io&theme=gruvbox" />
-  </a>
 
-  <a href="https://github.com/nghungvkck/DF26-NeuroFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nghungvkck&repo=DF26-NeuroFlow&theme=onedark" />
-  </a>
+<a href="https://github.com/nghungvkck/nghungvkck.github.io">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=nghungvkck.github.io&theme=gruvbox"
+  />
+</a>
+
+<a href="https://github.com/nghungvkck/DF26-NeuroFlow">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DF26-NeuroFlow&theme=onedark"
+  />
+</a>
+
 </p>
 
 ---
@@ -41,9 +54,27 @@ I am passionate about:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghungvkck&theme=tokyonight" width="48%" />
+<img
+  height="180em"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
+
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=nghungvkck&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,react,express,mongodb,mysql,git,linux,docker,pytorch,tensorflow" />
+
 </p>
 
 ---

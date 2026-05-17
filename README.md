@@ -20,15 +20,15 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
 
 <a href="https://github.com/nghungvkck/RagSystem">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=ChatBotVersion2&theme=radical"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=RagSystem&theme=radical"
   />
 </a>
 
-<a href="https://github.com/nghungvkck/ChatBotVersion2">
+<!-- <a href="https://github.com/nghungvkck/ChatBotVersion2">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=ChatBotVersion2&theme=radical"
   />
-</a>
+</a> -->
 
 </p>
 

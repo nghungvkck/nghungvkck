@@ -46,6 +46,12 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
+<a href="https://github.com/nghungvkck/Durian">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Durian&theme=tokyonight"
+  />
+</a>
+
 </p>
 
 ---

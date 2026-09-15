@@ -12,9 +12,9 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
 
 <p align="center">
 
-<a href="https://github.com/nghungvkck/DSA_Python">
+<a href="https://github.com/nghungvkck/DSA">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DSA_Python&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DSA&theme=tokyonight"
   />
 </a>
 

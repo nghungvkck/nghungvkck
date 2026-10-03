@@ -24,12 +24,6 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
-<!-- <a href="https://github.com/nghungvkck/ChatBotVersion2">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=ChatBotVersion2&theme=radical"
-  />
-</a> -->
-
 </p>
 
 <p align="center">
@@ -43,6 +37,12 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
 <a href="https://github.com/nghungvkck/DF26-NeuroFlow">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DF26-NeuroFlow&theme=onedark"
+  />
+</a>
+
+<a href="https://github.com/nghungvkck/Duration-In-esp32-Edge-AI-">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Duration-In-esp32-Edge-AI-&theme=tokyonight"
   />
 </a>
 

@@ -46,9 +46,9 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
-<a href="https://github.com/nghungvkck/Duration-In-esp32-Edge-AI-">
+<a href="https://github.com/nghungvkck/Predicting-user-behavior">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Duration-In-esp32-Edge-AI-&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Predicting-user-behavior&theme=gruvbox"
   />
 </a>
 

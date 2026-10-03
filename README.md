@@ -23,8 +23,8 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=RagSystem&theme=radical"
   />
 </a>
-
 </p>
+
 
 <p align="center">
 
@@ -40,6 +40,9 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
+</p>
+
+<p align="center">
 <a href="https://github.com/nghungvkck/Durian-In-esp32-Edge-AI-">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Durian-In-esp32-Edge-AI-&theme=tokyonight"
@@ -51,7 +54,6 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Predicting-user-behavior&theme=gruvbox"
   />
 </a>
-
 </p>
 
 ---

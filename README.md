@@ -40,9 +40,9 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
-<a href="https://github.com/nghungvkck/Duration-In-esp32-Edge-AI-">
+<a href="https://github.com/nghungvkck/Durian-In-esp32-Edge-AI-">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Duration-In-esp32-Edge-AI-&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Durian-In-esp32-Edge-AI-&theme=tokyonight"
   />
 </a>
 

@@ -34,9 +34,9 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
-<a href="https://github.com/nghungvkck/DF26-NeuroFlow">
+<a href="https://github.com/nghungvkck/AUTOSCALING_ANALYSIS">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DF26-NeuroFlow&theme=onedark"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=AUTOSCALING_ANALYSIS&theme=onedark"
   />
 </a>
 

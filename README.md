@@ -11,18 +11,19 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
 ## 🚀 My Projects
 
 <p align="center">
-
-<a href="https://github.com/nghungvkck/DSA">
+<a href="https://github.com/nghungvkck/Durian-In-esp32-Edge-AI-">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DSA&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Durian-In-esp32-Edge-AI-&theme=tokyonight"
   />
 </a>
 
-<a href="https://github.com/nghungvkck/RagSystem">
+<a href="https://github.com/nghungvkck/AUTOSCALING_ANALYSIS">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=RagSystem&theme=radical"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=AUTOSCALING_ANALYSIS&theme=onedark"
   />
 </a>
+
+
 </p>
 
 
@@ -34,18 +35,19 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
   />
 </a>
 
-<a href="https://github.com/nghungvkck/AUTOSCALING_ANALYSIS">
+<a href="https://github.com/nghungvkck/RagSystem">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=AUTOSCALING_ANALYSIS&theme=onedark"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=RagSystem&theme=radical"
   />
 </a>
 
 </p>
 
 <p align="center">
-<a href="https://github.com/nghungvkck/Durian-In-esp32-Edge-AI-">
+
+<a href="https://github.com/nghungvkck/DSA">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Durian-In-esp32-Edge-AI-&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DSA&theme=tokyonight"
   />
 </a>
 

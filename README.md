@@ -28,10 +28,9 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
 
 
 <p align="center">
-
-<a href="https://github.com/nghungvkck/nghungvkck.github.io">
+<a href="https://github.com/nghungvkck/Predicting-user-behavior">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=nghungvkck.github.io&theme=gruvbox"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Predicting-user-behavior&theme=gruvbox"
   />
 </a>
 
@@ -50,12 +49,12 @@ I am passionate about:Deep Learning, Machine Learning, LLM, NLP, AI
     src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=DSA&theme=tokyonight"
   />
 </a>
-
-<a href="https://github.com/nghungvkck/Predicting-user-behavior">
+<a href="https://github.com/nghungvkck/nghungvkck.github.io">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=Predicting-user-behavior&theme=gruvbox"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nghungvkck&repo=nghungvkck.github.io&theme=gruvbox"
   />
 </a>
+
 </p>
 
 ---

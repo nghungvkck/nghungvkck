@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
 
-## 👨‍💻 About Me
+## About Me
 
 Hi! My name is **Nguyen Van Hung**.  
 I am currently a student at **University of Science (VNU-HN)**.

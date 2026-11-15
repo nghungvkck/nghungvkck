@@ -8,7 +8,7 @@ Hi! My name is **Nguyen Van Hung**.
 
 I am currently a Computer Science student at **University of Science (VNU-HN)**.
 
-My interests include:
+I am passionate about:
 - Deep Learning & Machine Learning
 - Large Language Models (LLMs)
 - Natural Language Processing (NLP)
@@ -50,9 +50,19 @@ My interests include:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=nghungvkck&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=nghungvkck&show_icons=true&theme=tokyonight&hide=commits&show=contributions"
+    alt="Total GitHub Contributions"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=nghungvkck&theme=tokyonight"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
+---
 
 ## ⚡ Fun Fact
 
